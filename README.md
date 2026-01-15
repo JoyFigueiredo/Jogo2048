@@ -92,16 +92,7 @@ gcc -O2 -Wall -Iallegro/include ^
 5. **Game Over**: ocorre quando não há movimentos válidos.
 
 > A estrutura de dados para peças/estados e vetores de imagens/sons é visível em `inicio.c` (e no `main.c`).
-
----
-
-## 📸 Capturas de tela / GIF
-
-**Dica:** adicione imagens da pasta `imagens/` em ação, ou grave um GIF curto (5–10s) do gameplay.  
-Coloque seus arquivos em `docs/` e referencie aqui:
-
-``
-
+> 
 ---
 
 ## 🛠️ Desenvolvimento
@@ -113,8 +104,7 @@ Coloque seus arquivos em `docs/` e referencie aqui:
 
 ## 📚 Referências & Créditos
 
-- Este repositório menciona que foi “feito com” base em trabalho da usuária **@sarahxwaves**.  
-  Caso tenha utilizado assets/código dela, mantenha o crédito e a licença original.
+- Trabalho realizado em dupla com **@sarahxwaves**.  
 - Biblioteca **Allegro 5** (renderização, imagem, fonte, áudio) — inicialização e uso podem ser vistos no arquivo `inicio.c`.
 
 ---
@@ -125,13 +115,6 @@ Concluído para fins acadêmicos, com espaço para melhorias (animações, placa
 
 ---
 
-## 📄 Licença
-
-Defina aqui a licença do seu projeto (ex.: **MIT**).  
-Crie um arquivo `LICENSE` na raiz para formalizar.
-
----
-
 ## 🗺 Roadmap (sugestões)
 
 - [ ] Animações suaves nas fusões (interpolação/frames).
@@ -139,6 +122,6 @@ Crie um arquivo `LICENSE` na raiz para formalizar.
 - [ ] Tela de **Game Over** com opção de Reiniciar.
 - [ ] Modo **4×4 / 5×5** configurável.
 - [ ] Suporte multiplataforma (Linux/macOS com `pkg-config`).
-feito com https://github.com/sarahxwaves
+
 
 
