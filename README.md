@@ -33,18 +33,19 @@ https://github.com/JoyFigueiredo/Jogo2048
 ---
 
 ## 🗂️ Estrutura do repositório
+```
 Jogo2048/
-├─ .vscode/           # Tarefas de build (VS Code)
-├─ Sons/              # Efeitos sonoros do jogo
-├─ allegro/           # Recursos/headers/libs Allegro (apoio)
-├─ fontes/            # Arquivos de fontes
-├─ imagens/           # Sprites, plano de fundo e peças
-├─ README.md          # (este arquivo)
-├─ inicio.c           # Inicialização do Allegro e recursos
-├─ main.c             # Loop principal / lógica do jogo
-├─ jogo.exe           # Executável para Windows
-└─ tasks.json         # Tarefa de compilação (VS Code)
-
+       ├─ .vscode/           # Tarefas de build (VS Code)
+       ├─ Sons/              # Efeitos sonoros do jogo
+       ├─ allegro/           # Recursos/headers/libs Allegro (apoio)
+       ├─ fontes/            # Arquivos de fontes
+       ├─ imagens/           # Sprites, plano de fundo e peças
+       ├─ README.md          # (este arquivo)
+       ├─ inicio.c           # Inicialização do Allegro e recursos
+       ├─ main.c             # Loop principal / lógica do jogo
+       ├─ jogo.exe           # Executável para Windows
+       └─ tasks.json         # Tarefa de compilação (VS Code)
+```
 > A estrutura e os arquivos foram obtidos diretamente do repositório. [1](https://github.com/JoyFigueiredo/Jogo2048)
 
 ---
