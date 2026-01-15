@@ -1,8 +1,9 @@
+<h1 align="center">Jogo 2048 (C + Allegro 5)</h1>
 
-# Jogo 2048 (C + Allegro 5)
-
-Recriação do clássico **2048** desenvolvida em **C** usando a biblioteca **Allegro 5**.  
-Projeto acadêmico com foco em lógica de movimentação/combinação de blocos, gerenciamento de sprites, sons e loop de jogo.  
+<p align="center">
+Recriação do clássico <strong>2048</strong> desenvolvida em <strong>C</strong> usando a biblioteca <strong>Allegro 5</strong>.  
+Projeto acadêmico com foco em lógica de movimentação/combinação de blocos, gerenciamento de sprites, sons e loop de jogo. 
+</p>
 
 > **Stack principal:** C, Allegro 5  
 > **Resolução padrão:** 700×700 px (janela fixa)  
