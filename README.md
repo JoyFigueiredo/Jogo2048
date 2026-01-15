@@ -4,6 +4,10 @@
 Recriação do clássico <strong>2048</strong> desenvolvida em <strong>C</strong> usando a biblioteca <strong>Allegro 5</strong>.  
 Projeto acadêmico com foco em lógica de movimentação/combinação de blocos, gerenciamento de sprites, sons e loop de jogo. 
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão">
+</p>
 
 > **Stack principal:** C, Allegro 5  
 > **Resolução padrão:** 700×700 px (janela fixa)  
